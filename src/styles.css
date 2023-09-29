@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.custom-select-wrapper {
+  position: relative;
+  display: inline-block;
+  background-color: aliceblue;
+}
